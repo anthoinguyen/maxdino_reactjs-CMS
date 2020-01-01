@@ -1,3 +1,2 @@
-# dashboard-maxdino
-# maxdino-dashboard.herokuapp.com
+dashboard-maxdino reactjs redux redux-saga
 
